@@ -1,5 +1,3 @@
-# Email-Spam-Detection
-
 # Email Spam Detection
 
 This project detects whether an email is spam or not spam (ham). It uses machine learning to classify emails.
